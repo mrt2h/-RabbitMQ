@@ -54,7 +54,7 @@
 
 ![Снимок03](3.png)
 
-Файл [PKT] hsrp_advanced!.pkt
+Файл [PKT] (hsrp_advanced!.pkt)
 
 </details>
 
