@@ -54,7 +54,7 @@
 
 ![Снимок03](3.png)
 
-Файл PKT hsrp_advanced!.pkt
+Файл [PKT] hsrp_advanced!.pkt
 
 </details>
 
@@ -80,7 +80,7 @@ else
 fi
 ```
 
-Файл конфига [файла](keepalived!.conf)
+Файл конфига [keepalived](keepalived!.conf)
 
 ![image](4.png)
 
