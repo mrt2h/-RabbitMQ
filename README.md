@@ -80,7 +80,7 @@ else
 fi
 ```
 
-Файл конфига (keepalived!.conf)
+Файл конфига [файла](keepalived!.conf)
 
 ![image](4.png)
 
